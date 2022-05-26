@@ -1,0 +1,17 @@
+[
+  {
+    "stockName": "ABC",
+    "noOfStock": "10",
+    "stockPrice": "50000"
+  },
+  {
+    "stockName": "XYZ",
+    "noOfStock": "15",
+    "stockPrice": "75000"
+  },
+  {
+    "stockName": "ATZ",
+    "noOfStock": "20",
+    "stockPrice": "25000"
+  }
+]
