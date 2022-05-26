@@ -1,17 +1,56 @@
-[
-  {
-    "name": "Rice",
-    "Price": "1500",
-    "Weight": "100"
-  },
-  {
-    "name": "Wheat",
-    "Price": "1000",
-    "Weight": "20"
-  },
-  {
-    "name": "Pulse",
-    "Price": "2000",
-    "Weight": "15"
-  }
-]
+{
+  "Rice": 
+  [
+    {
+      "name": "Brown Rice",
+      "Price": "1000",
+      "Weight": "100"
+    },
+    {
+      "name": "Black Rice",
+      "Price": "1500",
+      "Weight": "75"
+    },
+    {
+      "name": "Basmati Rice",
+      "Price": "2000",
+      "Weight": "50"
+    }
+  ],
+  "Wheat": 
+  [
+    {
+      "name": "Hard White Wheat",
+      "Price": "1500",
+      "Weight": "100"
+    },
+    {
+      "name": "Hard Red Spring",
+      "Price": "2000",
+      "Weight": "125"
+    },
+    {
+      "name": "Hard Red Winter",
+      "Price": "2500",
+      "Weight": "75"
+    }
+  ],
+  "Pulse": 
+  [
+    {
+      "name": "Green Gram",
+      "Price": "1500",
+      "Weight": "50"
+    },
+    {
+      "name": "Bengal Gram",
+      "Price": "1750",
+      "Weight": "75"
+    },
+    {
+      "name": "Black Gram",
+      "Price": "2000",
+      "Weight": "100"
+    }
+  ]
+}

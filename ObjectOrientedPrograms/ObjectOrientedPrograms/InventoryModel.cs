@@ -9,7 +9,7 @@ namespace ObjectOrientedPrograms
     internal class InventoryModel
     {
         public string name { get; set; } 
-        public int price { get; set; }
-        public int weight { get; set; }
+        public string price { get; set; }
+        public string weight { get; set; }
     }
 }
